@@ -1,0 +1,10 @@
+- Crio meu Dynamic Web Project
+- Criar os pacotes br.edu.unicid.bean
+		   br.edu.unicid.dao
+		   br.edu.unicid.util
+		   br.edu.unicid.web
+
+bean - Criar a classe Aluno
+dao - Criar a classe AlununoDAO
+util - Criar a ConnectionFactory para conexão com o database
+web - Criar o servlet para receber todas as requisições http permitindo requisições post e get
